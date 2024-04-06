@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Somoal</h1>
-<h3 align="center">Interested on Software Engineer and Machine Learning from Indonesia ID</h3>
+<h3 align="center">Interested n Software Engineer and Machine Learning from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
