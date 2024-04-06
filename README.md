@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Somoal</h1>
 <h3 align="center">Interested on Software Engineer and Machine Learning from Indonesia ID</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=protoga&label=Profile%20views&color=0e75b6&style=flat" alt="protoga" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=protoga" alt="protoga" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
