@@ -1,6 +1,6 @@
 ![](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
 <h1 align="center">Hi 👋, I'm Gabriel Somoal</h1>
-<h3 align="center">Interested in Software Engineer and Machine Learning from Indonesia</h3>
+<h3 align="center">Interested in Software and Machine Learning Development from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protoga&label=Profile%20views&color=0e75b6&style=flat" alt="protoga" /> </p>
 
